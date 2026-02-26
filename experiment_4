@@ -1,4 +1,4 @@
-USE company2cse18G1;
+USE company2cse18_2410030154;
 show tables;
 SELECT * FROM EMPLOYEE;
 
