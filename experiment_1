@@ -1,6 +1,6 @@
 // CREATING A DATABASE
-create database company2cse18G1;
-use company2cse18G1;
+create database company2cse18_2410030154;
+use company2cse18_2410030154;
 
 // CREATING DEPARTMENT TABLE 
 CREATE TABLE DEPARTMENT (
