@@ -1,6 +1,5 @@
-~~~sql
-USE 2cse18_2410030134;
-~~~
+# USE 2cse18_2410030134;
+
 ### 1. List all distinct job in Employee.
 ~~~sql
 SELECT DISTINCT JOB FROM EMPLOYEE;
